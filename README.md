@@ -1,1 +1,1 @@
-# jokeapp
+# Spring Boot Application for Jokes
